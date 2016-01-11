@@ -1,10 +1,10 @@
 {
-  "name": "Jobs view",
-  "homepage": "https://github.com/hiof/jobs-view",
+  "name": "list-view view",
+  "homepage": "https://github.com/hiof/list-view",
   "authors": [
     "Kenneth Dahlstrøm <kenneth.dahlstrom@hiof.no>"
   ],
-  "description": "canvas package",
+  "description": "list-view package",
   "dependencies": {
     "sass-mq": "~3.2.2",
     "jquery.scrollTo": "~1.4.11",
