@@ -98,7 +98,8 @@ module.exports = function(grunt) {
     },
     babel: {
       options: {
-        sourceMap: true
+        sourceMap: true,
+        comments: false
         //presets: ['es2015']
       },
       dist: {
