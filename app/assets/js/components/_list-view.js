@@ -9,7 +9,7 @@
     var pageTreeID = $('#list-view').attr('data-page-tree-id');
 
     let defaults = {
-      url: 'http://hiof.no/api/v1/page-relationship/',
+      url: '//www.hiof.no/api/v1/page-relationship/',
       id: pageTreeID,
       server: 'www2',
       footer: false
